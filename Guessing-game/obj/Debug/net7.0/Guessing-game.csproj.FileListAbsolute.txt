@@ -1,0 +1,15 @@
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\bin\Debug\net7.0\Guessing-game.exe
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\bin\Debug\net7.0\Guessing-game.deps.json
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\bin\Debug\net7.0\Guessing-game.runtimeconfig.json
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\bin\Debug\net7.0\Guessing-game.dll
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\bin\Debug\net7.0\Guessing-game.pdb
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.AssemblyInfo.cs
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.dll
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\refint\Guessing-game.dll
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.pdb
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\Guessing-game.genruntimeconfig.cache
+C:\Users\rafae\Documents\C# estudies\Guessing-game\Guessing-game\obj\Debug\net7.0\ref\Guessing-game.dll
